@@ -1,2 +1,2 @@
 # Data-Science-Practice
-Course project
+Course projects
