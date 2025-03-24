@@ -1,5 +1,5 @@
 📂 Data Science Mini Projects  
-👋 Assalomu alaykum!  
+  
 Ushbu repository Data Science kursi davomida bajarilgan kichik amaliyotlarni o‘z ichiga oladi. Har bir loyiha data analiz, ma’lumotlarni vizualizatsiya qilish, mashinani o‘rganish va boshqa muhim konseptlarni o‘z ichiga oladi.  
   
 📌 Bajarilgan ishlar  
